@@ -1,4 +1,4 @@
-# 🎵 Spotify & YouTube MP3 Downloader 🎵
+# Spotify & YouTube MP3 Downloader
 
 A simple and powerful Python CLI tool to download songs or full Spotify playlists as MP3 files using YouTube as the audio source.
 
@@ -7,7 +7,7 @@ A simple and powerful Python CLI tool to download songs or full Spotify playlist
 
 ---
 
-## 🚀 Features
+## Features
 
 - Download entire Spotify playlists automatically from YouTube
 - Download individual YouTube videos or songs
@@ -15,7 +15,7 @@ A simple and powerful Python CLI tool to download songs or full Spotify playlist
 
 ---
 
-## 🧩 Requirements
+## Requirements
 
 - Python 3.8+
 - FFmpeg installed and available in your PATH
@@ -23,7 +23,7 @@ A simple and powerful Python CLI tool to download songs or full Spotify playlist
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository and install dependencies:
 
